@@ -1,23 +1,3 @@
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-54sw{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-o5n3{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-gd2f{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:bottom}
-.tg .tg-q3nt{background-color:#8EA9DB;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-x1z9{background-color:#8EA9DB;border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-bn54{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-rcip{background-color:#FFF;border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-iz6e{border-color:inherit;color:#444;text-align:left;vertical-align:bottom}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-kcps{background-color:#FFF;text-align:left;vertical-align:bottom}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-q3nt">Activities</th>
