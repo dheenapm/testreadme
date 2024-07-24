@@ -4,7 +4,7 @@
 
 **Release management process flow**
 
-![image](https://media.github.thehartford.com/user/2004/files/028608af-349d-4ce3-8392-eeb7bb545dc8)
+![image]()
 
 </div>
 <table class="tg"><thead>
