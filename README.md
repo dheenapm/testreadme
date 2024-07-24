@@ -2,7 +2,7 @@
 
 **MLC Release Process and Procedures** : The purpose of this wiki page is to provide a comprehensive guide to the MLC Applications Release Management Process and Procedure. The goal is to establish standardized process that ensures consistency, quality, and control throughout the release lifecycle.
 
-**Release management process flow**
+**Release Management process Flow**
 
 ![image](https://github.com/dheenapm/testreadme/blob/main/Picture1.png)
 ![image](https://github.com/dheenapm/testreadme/blob/main/Picture2.png)
