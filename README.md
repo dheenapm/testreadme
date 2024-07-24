@@ -7,7 +7,7 @@
 ![image](https://github.com/dheenapm/testreadme/blob/main/Picture1.png)
 ![image](https://github.com/dheenapm/testreadme/blob/main/Picture2.png)
 
-<img src="https://github.com/dheenapm/testreadme/blob/main/Picture1.png" alt="drawing" width="200"/>
+<img src="https://github.com/dheenapm/testreadme/blob/main/Picture1.png" alt="drawing" width="800"/>
 
 </div>
 <table class="tg"><thead>
