@@ -1,5 +1,11 @@
-    ![image](https://github.com/dheenapm/testreadme/blob/main/image1.jpg)
-    ![image](https://github.com/dheenapm/testreadme/blob/main/image1.jpg)
+# Release Management
+
+**MLC Release Process and Procedures** : The purpose of this wiki page is to outline the required actions, processes and documentation required for a UW Monthly or Quarterly Release.
+
+**Release management process flow**
+
+![image](https://media.github.thehartford.com/user/2004/files/028608af-349d-4ce3-8392-eeb7bb545dc8)
+
 </div>
 <table class="tg"><thead>
   <tr>
