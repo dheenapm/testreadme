@@ -1,3 +1,8 @@
+<img src="your-logo />
+<div class="container">
+    <img src="image1" />
+    <img src="image2" class="image2" />
+</div>
 <table class="tg"><thead>
   <tr>
     <th class="tg-q3nt">Activities</th>
