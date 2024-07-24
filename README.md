@@ -1,6 +1,5 @@
-<div class="container">
-    <img src="[image1](https://github.com/dheenapm/testreadme/blob/main/image1.jpg)" />
-    <img src="[image2](https://github.com/dheenapm/testreadme/blob/main/image1.jpg)" class="image2" />
+    ![alt text](https://github.com/dheenapm/testreadme/blob/main/image1.jpg)
+    ![alt text](https://github.com/dheenapm/testreadme/blob/main/image1.jpg)
 </div>
 <table class="tg"><thead>
   <tr>
