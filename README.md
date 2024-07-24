@@ -12,9 +12,6 @@
     <th class="tg-x1z9">Emergency(Hotfix)Releases</th>
     <th class="tg-x1z9">Lead time</th>
     <th class="tg-x1z9">Notes</th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
   </tr></thead>
 <tbody>
   <tr>
@@ -30,9 +27,6 @@
     <td class="tg-gd2f">Yes</td>
     <td class="tg-gd2f"> </td>
     <td class="tg-gd2f"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-bn54">2</td>
@@ -46,9 +40,6 @@
     <td class="tg-gd2f">Yes</td>
     <td class="tg-jxgv">Beginning of QTR - Quaterly release<br> At least 4 week prior - Monthly Release<br> Beginning of the sprint - Standard Release</td>
     <td class="tg-gd2f">Release on Demand types:<br> Emergency Release: urgent releases not related to any fallouts<br> Hotifx Release: to remediate fallouts</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-bn54">3</td>
@@ -62,9 +53,6 @@
     <td class="tg-gd2f">Yes</td>
     <td class="tg-gd2f"></td>
     <td class="tg-gd2f"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-o5n3">4</td>
@@ -78,8 +66,5 @@
     <td class="tg-kcps">Yes</td>
     <td class="tg-kcps"></td>
     <td class="tg-kcps"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
   </tr>
 </tbody></table>
