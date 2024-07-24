@@ -4,7 +4,7 @@
 
 **Release management process flow**
 
-![image](https://github.com/dheenapm/testreadme/blob/main/image1.jpg)
+![image](https://github.com/dheenapm/testreadme/blob/main/Picture1.png)
 
 </div>
 <table class="tg"><thead>
