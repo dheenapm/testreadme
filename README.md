@@ -1,5 +1,5 @@
-    ![alt text](https://github.com/dheenapm/testreadme/blob/main/image1.jpg)
-    ![alt text](https://github.com/dheenapm/testreadme/blob/main/image1.jpg)
+    ![image](https://github.com/dheenapm/testreadme/blob/main/image1.jpg)
+    ![image](https://github.com/dheenapm/testreadme/blob/main/image1.jpg)
 </div>
 <table class="tg"><thead>
   <tr>
