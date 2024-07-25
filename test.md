@@ -1,3 +1,25 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lqfj{font-size:10px;text-align:center;vertical-align:middle}
+.tg .tg-kv60{background-color:#FFF;font-size:10px;text-align:left;vertical-align:bottom}
+.tg .tg-oah0{background-color:#8EA9DB;font-size:10px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-4uvq{background-color:#FFF;color:#F00;font-size:10px;text-align:left;vertical-align:bottom}
+.tg .tg-hohs{background-color:#FFF;font-size:10px;text-align:center;vertical-align:middle}
+.tg .tg-jzhy{background-color:#8EA9DB;font-size:10px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-hnq8{background-color:#FFF;font-size:10px;text-align:center;vertical-align:top}
+.tg .tg-7uk3{background-color:#8EA9DB;border-color:inherit;font-size:10px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-wbpr{background-color:#FFF;font-size:10px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-qwzr{background-color:#FFF;font-size:10px;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-qcdn{color:#444;font-size:10px;text-align:left;vertical-align:bottom}
+.tg .tg-j00i{background-color:#FFF;font-size:10px;text-align:left;vertical-align:top}
+.tg .tg-5221{font-size:10px;text-align:left;vertical-align:bottom}
+.tg .tg-2v94{font-size:10px;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-ue68{font-size:10px;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-7uk3"></th>
