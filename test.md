@@ -1,3 +1,4 @@
+<table border="1">
 <table class="tg"><thead>
   <tr>
     <th class="tg-q3nt"></th>
